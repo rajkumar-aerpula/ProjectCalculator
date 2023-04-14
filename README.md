@@ -5,9 +5,16 @@
 
 
 Project Title	Calculator App
+
+
 Technologies	ReactJS
+
+
 Domain	Education
+
 Project Level	Easy
+
+
 Organization	iNeuron Intelligence Private Limited
 
 
@@ -17,27 +24,6 @@ Organization	iNeuron Intelligence Private Limited
 
 
 
-
-Table of Content
-
-
-Contents
-1.Problem Statement	2
-...................................................................................................................................................................    2
-2.Project Evaluation metrics:	2
-2.2. Database	2
-3.Submission requirements:	2
-...................................................................................................................................................................    2
-3.1.High-level Document	2
-3.2.Low-level document	2
-3.3.Architecture	3
-3.4.Wireframe	3
-3.5.Project code	3
-3.6.Detail project report	3
-3.7.Project demo video:	3
-
-
-3.8.The project LinkedIn a post	3
 
 
 
